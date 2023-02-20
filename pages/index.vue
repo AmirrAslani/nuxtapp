@@ -16,6 +16,7 @@
 
 <script>
 import 'assets/css/style.css'
+
 export default {
   name: 'IndexPage',
   data() {
